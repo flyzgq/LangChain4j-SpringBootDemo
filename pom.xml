@@ -33,7 +33,7 @@
         <spring-boot.version>3.3.4</spring-boot.version>
         <langchain4j.version>0.36.2</langchain4j.version>
         <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
-        <spring-boot-maven-plugin.version>3.3.4</spring-boot-maven-plugin.version>
+        <spring-boot-maven-plugin.version>3.4.4</spring-boot-maven-plugin.version>
     </properties>
 
     <dependencyManagement>
