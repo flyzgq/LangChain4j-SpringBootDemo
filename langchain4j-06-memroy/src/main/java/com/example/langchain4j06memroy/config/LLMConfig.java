@@ -1,8 +1,6 @@
 package com.example.langchain4j06memroy.config;
 
 import com.example.langchain4j06memroy.service.ChatAssistant;
-import dev.langchain4j.memory.ChatMemory;
-import dev.langchain4j.memory.chat.ChatMemoryProvider;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;
 import dev.langchain4j.model.chat.ChatLanguageModel;
 import dev.langchain4j.model.openai.OpenAiChatModel;
