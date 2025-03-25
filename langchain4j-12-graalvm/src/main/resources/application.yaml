@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:
+      langchain4j-02-simple
+logging:
+  level:
+    root: debug
